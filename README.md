@@ -1,6 +1,7 @@
 # Little-CAD-2D
 Programa que dibuja un conjunto básico de figuras geométricas dentro de una matriz de 82 x 42 .
-o Integrantes
+<p>
+o Integrantes</p>
 Tania Barreda Galvez
 Kendra Bernal Flores
 o Descripción Programa
